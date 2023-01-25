@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tega2401
-- 👀 I’m interested in anything fintech related
-- 🌱 I’m currently working on a public service app to help people find clean restrooms while away from their residence 
+- 👀 I’m interested in working in the tech field
+- 🌱 I’m currently working on a web application that utilizes Spotify's API 
 - 💞️ I’m looking to collaborate on any coding related projects
 - 📫 How to reach me ...
 
